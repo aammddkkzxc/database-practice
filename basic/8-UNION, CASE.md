@@ -6,7 +6,7 @@
 
 #### UNION ALL
 - UNION 과 UNION ALL 의 유일한 차이점은 중복 처리 여부
-- 성능은 UNION ALL 이 UNION 보다 훨씬 빠르다 (비교 작업 추가됨)
+- 성능은 UNION ALL 이 UNION 보다 훨씬 빠르다 (UNION엔 비교 작업 추가됨)
 
 #### UNION 정렬
 - UNION 으로 합친 최종 결과 집합을 정렬하려면 ORDER BY 절을 전체 쿼리의 가장 마지막에 한 번만 사용
