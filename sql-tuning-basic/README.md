@@ -1,26 +1,10 @@
 # sql-tuning-basic
 
 ## mysql 성능 최적화 기초
-
-#### 인프런 AI 커리어 스쿨 활동 학습 결과서
-
-<br>
-
-수료한 강의 링크 </br>
-- https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-mysql-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%95%ED%99%95-sql%ED%8A%9C%EB%8B%9D/dashboard
-<br>
-
-완강 수료증 </br>
-- https://www.inflearn.com/certificate/1325255-334363-13955588 </br>
-
-</br>
-
-왜 이 강의를 선택 했는지 </br>
+왜 이 강의를 선택 했는지
 - sql쿼리를 작성할 때에 어떤 점이 성능 저하를 유발하고 어떻게 개선해야 하는지 알고 싶었다
 - pk 이외의 인덱스를 왜 거는지 어떤 방식으로 활용 되는지 알고 싶었다
 - 실무에서 사용되는 다양한 sql 튜닝 예시에 대해서 알고 싶었다
-
-</br>
 
 이 강의를 통해 얻은 것, 핵심 키워드 <br>
 - sql튜닝을 해야 하는 이유
